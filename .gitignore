@@ -1,0 +1,8 @@
+build/
+build/*
+Drivers/
+Drivers/*
+startup_*
+*_FLASH.ld
+.vscode
+.mxproject
