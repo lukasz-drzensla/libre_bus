@@ -9,5 +9,7 @@
 #define ENTER_LINE_STR "Enter bus line"
 #define CHOOSE_DIR_STR "Choose direction - press 0 or 1"
 #define DISP_STOP_STR "Next stop: "
+#define WRONG_BUS_LINE "Wrong line"
+#define END_OF_ROUTE "End of route"
 
 #endif /* _STRRES_H */
