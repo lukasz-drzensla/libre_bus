@@ -7,5 +7,5 @@ Requirements: GNU Make, arm-none-eabi-gcc
 # Driver Interface Device
 In order to build the application for driver device cd to the main project directory. Next type 'make all' to build the app. Executable .bin file will be placed in build/ directory.
 
-#Prototype
+# Prototype
 A video presenting the prototype of Driver Interface Device in action: https://youtu.be/_tMvBMXRmZc
